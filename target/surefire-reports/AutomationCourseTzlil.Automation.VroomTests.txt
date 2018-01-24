@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: AutomationCourseTzlil.Automation.VroomTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 21.804 s <<< FAILURE! - in AutomationCourseTzlil.Automation.VroomTests
+checkCarPrice(AutomationCourseTzlil.Automation.VroomTests)  Time elapsed: 21.803 s  <<< FAILURE!
+java.lang.AssertionError: The price is lower than 300,000
+	at AutomationCourseTzlil.Automation.VroomTests.checkCarPrice(VroomTests.java:35)
+
